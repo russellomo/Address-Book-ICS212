@@ -1,0 +1,436 @@
+Script started on Thu Oct 15 19:34:35 2015
+uhx01% ./pro1
+Welcome. Please enter a value from the menu below
+*************************************************
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+1
+Please enter a name and press ENTER
+Jon hn Smith
+Please enter the person's year of birth and press ENTER
+1972
+Please enter an address. End with '~' when finished
+An
+Address~
+Lastly, please enter the person's telephone number and press ENTER
+808222
+Record added!
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+1
+Please enter a name and press ENTER
+Janwe    e Smith
+Please enter the person's year of birth and press ENTER
+1923  72
+Please enter an address. End with '~' when finished
+An
+Address~
+Lastly, please enter the person's telephone number and press ENTER
+808222
+Record added!
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+3
+Please type the name of the person whose information you want printed
+Joe Smith
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+3
+Please type the name of the person whose information you want printed
+Jon Smith
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+3
+Please type the name of the person whose information you want printed
+Jane Smith
+-------------
+Name : Jane Smith
+Address : An
+Address~
+Year of Birth : 1972
+Telephone : 808222
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+3
+Please type the name of the person whose information you want printed
+John Smith
+-------------
+Name : John Smith
+Address : An
+Address~
+Year of Birth : 1972
+Telephone : 808222
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+4
+-------------
+Name : John Smith
+Address : An
+Address~
+Year of Birth: 1972
+Telephone : 808222
+-------------
+Name : Jane Smith
+Address : An
+Address~
+Year of Birth: 1972
+Telephone : 808222
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+2
+Please enter the name of the person's address you wish to modify'
+Joe Smith
+Please enter a new address. End with '~' when finished
+New
+Adde ress~
+Please enter a new phone number.
+909222
+No such record to modify
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+1
+Please enter a name and press ENTER
+John Smith
+Please enter the person's year of birth and press ENTER
+1922
+Please enter an address. End with '~' when finished
+adfasdf
+sdfsdf~
+Lastly, please enter the person's telephone number and press ENTER
+8082321
+Record added!
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+3
+Please type the name of the person whose information you want printed
+John Smith
+-------------
+Name : John Smith
+Address : An
+Address~
+Year of Birth : 1972
+Telephone : 808222
+-------------
+Name : John Smith
+Address : adfasdf
+sdfsdf~
+Year of Birth : 1922
+Telephone : 8082321
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+2
+Please enter the name of the person's address you wish to modify'
+John Smith
+Please enter a new address. End with '~' when finished
+the   The
+Same~
+Please enter a new phone number.
+7777
+Modification Sucessful.
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+4
+-------------
+Name : John Smith
+Address : The
+Same~
+Year of Birth: 1972
+Telephone : 7777
+-------------
+Name : Jane Smith
+Address : An
+Address~
+Year of Birth: 1972
+Telephone : 808222
+-------------
+Name : John Smith
+Address : The
+Same~
+Year of Birth: 1922
+Telephone : 7777
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+5
+Please enter the name of the person whose entry you wish to delete
+John Smith
+Deletion Sucessful
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+4
+-------------
+Name : Jane Smith
+Address : An
+Address~
+Year of Birth: 1972
+Telephone : 808222
+-------------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+0
+Exit
+uhx01% ./pro1 nope
+pro1: Unrecognized argument (1)
+uhx01% ./pro1 not correct
+pro1: Excessive Arguments (2)
+uhx01% ./pro1 debug
+Entering Debug mode
+-------DEBUGMODE--------
+Function = getAddress
+add = ffbffae3
+size = 80
+stream = 22a78
+-------DEBUGMODE--------
+-------DEBUGMODE--------
+Function = addRecord
+pstart = ffbffbec
+name = Jane Smith
+add = An
+Address~
+date = 1972
+telnum = 808222
+-------DEBUGMODE--------
+-------DEBUGMODE--------
+Function = readfile
+pstart = ffbffbec
+filename = save.txt
+-------DEBUGMODE--------
+Save data found, resuming from last session...
+Welcome. Please enter a value from the menu below
+*************************************************
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+4
+-------------
+Name : Jane Smith
+Address : An
+Address~
+Year of Birth: 1972
+Telephone : 808222
+-------------
+-------DEBUGMODE--------
+Function = printAllRecords
+Start : 24ba8
+-------DEBUGMODE--------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+1
+Please enter a name and press ENTER
+Venom Snake
+Please enter the person's year of birth and press ENTER
+1984
+Please enter an address. End with '~' when finished
+New
+Haven~
+-------DEBUGMODE--------
+Function = getAddress
+add = ffbffc13
+size = 80
+stream = 22a48
+-------DEBUGMODE--------
+Lastly, please enter the person's telephone number and press ENTER
+555555
+-------DEBUGMODE--------
+Function = addRecord
+pstart = ffbffbec
+name = Venom Snake
+add = New
+Haven~
+date = 1984
+telnum = 555555
+-------DEBUGMODE--------
+Record added!
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+2
+Please enter the name of the person's address you wish to modify'
+Jane Smith
+Please enter a new address. End with '~' when finished
+adfsssssss~
+-------DEBUGMODE--------
+Function = getAddress
+add = ffbffc13
+size = 80
+stream = 22a48
+-------DEBUGMODE--------
+Please enter a new phone number.
+111111
+-------DEBUGMODE--------
+Function = modifyRecord
+start = 24ba8name = Jane Smith
+add = adfsssssss~
+telnum = 111111
+-------DEBUGMODE--------
+Modification Sucessful.
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+5
+Please enter the name of the person whose entry you wish to delete
+Venom Snake  
+-------DEBUGMODE--------
+Function = deleteRecord
+pstart = ffbffbec
+name = Venom Snake
+-------DEBUGMODE--------
+Deletion Sucessful
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+4
+-------------
+Name : Jane Smith
+Address : adfsssssss~
+Year of Birth: 1972
+Telephone : 111111
+-------------
+-------DEBUGMODE--------
+Function = printAllRecords
+Start : 24ba8
+-------DEBUGMODE--------
+===========================
+1 Add new record
+2 Modify record (Requires Name as key)
+3 Print information from record (Requires name as key)
+4 Print all information in database
+5 Delete an existing record (Requires name as key)
+0 Exit program
+===========================
+0
+Exit
+-------DEBUGMODE--------
+Function = writefile
+start = 24ba8
+filename = save.txt
+-------DEBUGMODE--------
+-------DEBUGMODE--------
+Function = cleanup
+start = ffbffbec
+-------DEBUGMODE--------
+uhx01% ./  exit
+uhx01% 
+script done on Thu Oct 15 19:39:52 2015

@@ -1,0 +1,6 @@
+pro1 : pro1main.o pro1func.o
+  cc -o pro1 pro1main.o pro1func.o
+pro1main.o : pro1main.c p1head.h
+  cc -c -strict -o pro1main.o pro1main.c
+pro1func.o : pro1func.c p1head.h
+  cc -c -strict -o pro1func.o pro1func.c

@@ -1,0 +1,11 @@
+Script started on Thu Oct 15 15:27:26 2015
+uhx01% make -f project1
+cc -c -strict -o pro1main.o pro1main.c
+cc -c -strict -o pro1func.o pro1func.c
+cc -o pro1 pro1main.o pro1func.o
+uhx01% ls
+p1head.h     pro1COMPILE  pro1func.o   pro1main.o   record.h
+pro1         pro1func.c   pro1main.c   project1     save.txt
+uhx01% exit
+uhx01% 
+script done on Thu Oct 15 15:27:54 2015
